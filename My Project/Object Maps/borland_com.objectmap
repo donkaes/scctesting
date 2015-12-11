@@ -1,0 +1,5 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="borland_com" locator="//BrowserApplication" urlPattern="*borland.com*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow"/>
+  </ObjectMapEntry>
+</ObjectMap>
